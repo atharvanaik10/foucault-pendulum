@@ -6,7 +6,8 @@ A Foucault(foo-KOH) pendulum is a simple pendulum named after French physicist L
 
 ### Comparision to lab results
 A comparison to real-life results and running code can be found [here](https://atharvanaik10.wixsite.com/atphysics).
+Here's the running code:
 
-
+![Foucault Pendulum Results](https://user-images.githubusercontent.com/35256233/71882605-bcfc3e80-316f-11ea-80e0-14191443c4ef.png)
 
 
